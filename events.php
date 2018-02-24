@@ -42,7 +42,7 @@ color:#fff;
 }
 /* Modal Content */
 .modal-content {
-    background-color: #000;
+    background-color: #000;/* 000 */
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
@@ -78,9 +78,9 @@ color:#fff;
 <span class="side-title">Events</span>
 </div>
 </a>
-<a href="http://tvaran2k18.org/#registration" class="col-md-6 colors-f background-95-f full-height" target="_self">
+<a href="#" class="col-md-6 colors-f background-95-f full-height" target="_self"> 
 <div>
-<span class="side-title">Register</span>
+<span class="side-title">Registeration Closed !</span>
 </div>
 </a>
 </div>
@@ -193,11 +193,13 @@ color:#fff;
 <div id="myModal_0" class="modal">
 
   <!-- Modal content -->
+  
   <div class="modal-content">
+
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3"> <!-- Registration closed   
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1ZJtDdN38BOB-umJVS5M2HX3DmIFMn4Bs8q0V44zO7vQ/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -209,10 +211,14 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
-        </div>
+            </div>                                      -->
+
+            
+            <h3  align="text-center">Registration Closed !</h3>
+        
+        </div>                                            
         <div class="col-md-1"></div>
-    </div>
+    </div>                                    
   </div>
 
 </div>
@@ -236,7 +242,7 @@ color:#fff;
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3">                 <!-- closed
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/17Wrb4o2KGrecS6PNmozIXwjqpcoBXegcNcASTMoQrhg/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -248,7 +254,8 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
+            </div>                                     -->
+            <h3  align="text-center">Registration Closed !</h3>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -276,7 +283,7 @@ color:#fff;
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3">                                <!-- closed
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1G64gs94Fm7YGkkOnnh2JVqBkL8Gs_u1SqAaxUNR-k4s/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -288,7 +295,8 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
+            </div>                      -->
+            <h3  align="text-center">Registration Closed !</h3>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -315,7 +323,7 @@ color:#fff;
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3">                     <!--
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1GRXhKpdQRaB8VTg1Q557c_ZR-_TLBNapNzwh8pi8rTU/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -327,7 +335,8 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
+            </div>                                    -->
+            <h3  align="text-center">Registration Closed !</h3>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -353,7 +362,7 @@ color:#fff;
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3">                          <!--
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/14X0advB5DUS92bghqSWJtddK-DEP8ycrG7ewNc33Jk0/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -365,7 +374,8 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
+            </div>                         -->
+            <h3  align="text-center">Registration Closed !</h3>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -390,7 +400,7 @@ color:#fff;
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3">                           <!--
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1Z0YSrEOcqS6Y6d_tyclk8RZJezMfLQEo7fHkXzmRvcM/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -402,7 +412,8 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
+            </div> -->
+            <h3  align="text-center">Registration Closed !</h3>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -427,7 +438,7 @@ color:#fff;
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3">                    <!--
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1UNRwjBu2Qr37uOwxXhyyHcnKPkEM63KEYHc5b3FFpzs/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -439,7 +450,8 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
+            </div>         -->
+            <h3  align="text-center">Registration Closed !</h3>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -465,7 +477,7 @@ color:#fff;
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3">                 <!--
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1qQcopbVs8cKENYdqbT-Z0X7BlcfhbBzlCND688ZF3_g/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -477,7 +489,8 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
+            </div>  -->
+            <h3  align="text-center">Registration Closed !</h3>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -504,7 +517,7 @@ color:#fff;
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3">                  <!--
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1IzidV5j5Yy4RaWIhoz2saXeyxCLcaRgYpjN5u6Zy0Vo/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -516,7 +529,8 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
+            </div>  -->
+            <h3  align="text-center">Registration Closed !</h3>
         </div>
         <div class="col-md-1"></div>
     </div>
@@ -541,7 +555,7 @@ color:#fff;
     <span class="close">&times;</span>
     <div class="row container">
         <div class="col-md-1"></div>
-        <div class="col-md-3">  
+        <div class="col-md-3">               <!--
             <div style="margin-left: 1%; ">
                 <h4><span class="glyphicon glyphicon-book" style="font-size: 25px"></span>&nbsp;&nbsp;Rule Book</h4>
                 <div style="margin-bottom: 12px ;" ><a href="https://docs.google.com/document/d/1YCGp5Fur-l-yM3CVTUzfP-MqoC71E46FO3waklNwyjs/edit?usp=sharing" target="_blank" class="button background-60-d heading-d border-hard">DOWNLOAD</a></div>
@@ -553,7 +567,8 @@ color:#fff;
                 <img src="images/svg/signup.jpg" height="40px" />
                 </div>
                 <div style="margin-bottom: 12px ;" ><a href="registration.php" class="button background-60-d heading-d border-hard">REGISTER</a></div>
-            </div>
+            </div>  -->
+            <h3  align="text-center">Registration Closed !</h3>
         </div>
         <div class="col-md-1"></div>
     </div>

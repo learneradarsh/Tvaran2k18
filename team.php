@@ -456,7 +456,7 @@
 </div>
 <!-- web team end -->
 <div class="container">
-<h3>SOCIAL MEDIA OPERATIOR</h3>
+<h3>SOCIAL MEDIA OPERATOR</h3>
 <div class="row">
 <div class="col-md-4 col-sm-6  col-xs-6"></div>
 
